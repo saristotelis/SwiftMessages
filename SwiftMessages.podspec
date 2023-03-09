@@ -5,7 +5,6 @@ Pod::Spec.new do |spec|
     spec.homepage         = 'https://github.com/saristotelis/SwiftMessages'
     spec.authors          = { 'Timothy Moose' => 'tim@swiftkick.it' }
     spec.summary          = 'A very flexible message bar for iOS written in Swift.'
-    spec.source           = {:git => 'https://github.com/SwiftKickMobile/SwiftMessages.git', :tag => spec.version}
     spec.source           = {:git => 'https://github.com/saristotelis/SwiftMessages.git', :tag => spec.version}
     spec.platform         = :ios, '14.0'
     spec.swift_version    = '5.1'
